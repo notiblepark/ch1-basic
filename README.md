@@ -1,1 +1,1 @@
-git @ github firsr example
+git & github first example
